@@ -1,0 +1,166 @@
+{
+    "data": [
+        {
+            "titulo": "Resumo",
+            "conteudo": [
+                "Projeto de Front-End do site OtoLugar que busca unir pessoas que querem viajar e conhecer João Pessoa e litoral paraibano. O site possui uma interface limpa e interativa, de fácil compreensão para o usuário. Oferece para os turistas a possibilidade de buscar por locais e avaliar a experiência. Para guias turísticos e/ou empresários, terá a ferramenta de inserção de pontos turísticos. A interface do Website foi projetada de forma minimalista, com o cuidado para não apresentar uma interface poluída que desestimule o uso da aplicação por parte do usuário.",
+                "<strong>Palavras-chaves:</strong> Front-End; Interface; HTML; CSS."
+            ],
+            "path": "resumo",
+            "temFilhos": false,
+            "filhos": [
+                {
+                    "subtitulo": "",
+                    "tipo": "",
+                    "conteudo": [
+                        {
+                            "tipo": "",
+                            "url": "",
+                            "conteudo": "",
+                            "tituloImg": "",
+                            "legendaImg": ""
+                        }
+                    ],
+                    "path": "",
+                    "temFilhos": false,
+                    "filhos": [],
+                    "prox": "",
+                    "ante": ""
+                }
+            ],
+            "prox": { "path": "abstract", "nome": "Abstract" },
+            "ante": null
+        },
+        {
+            "titulo": "Abstract",
+            "conteudo": [
+                "Front-End Project of the OtoLugar website that seeks to unite people who want to travel and be able to know João Pessoa and the coast of Paraíba. The site has a clean and interactive interface, easy to understand for the user. It offers tourists the possibility to search for locations and evaluate the experience. For tourist guides and/or business people, you will have the tool for inserting tourist attractions. The website interface was designed in a minimalist way, taking care not to present a polluted interface that discourages the use of the application by the user.",
+                "<strong>Palavras-chaves:</strong> Front-End; Interface; HTML; CSS."
+            ],
+            "path": "abstract",
+            "temFilhos": false,
+            "filhos": [
+                {
+                    "subtitulo": "",
+                    "tipo": "",
+                    "conteudo": [
+                        {
+                            "tipo": "",
+                            "url": "",
+                            "conteudo": "",
+                            "tituloImg": "",
+                            "legendaImg": ""
+                        }
+                    ],
+                    "path": "",
+                    "temFilhos": false,
+                    "filhos": [],
+                    "prox": "",
+                    "ante": ""
+                }
+            ],
+            "prox": {
+                "path": "motivacao-e-deficinao-do-problema",
+                "nome": "Motivação e Definição do problema"
+            },
+            "ante": { "path": "resumo", "nome": "Resumo" }
+        },
+        {
+            "titulo": "1. Introdução",
+            "conteudo": [],
+            "path": "introducao",
+            "temFilhos": true,
+            "filhos": [
+                {
+                    "subtitulo": "1.1 Motivação e Definição do problema",
+                    "tipo": "",
+                    "conteudo": [
+                        {
+                            "tipo": "txt",
+                            "url": "",
+                            "conteudo": "Com a chegada da Covid-19, se tornou difícil viajar e conhecer novos lugares fisicamente. Os preços para viajar subiram sem parar por conta da baixa procura pelo turismo tanto no mercado do nosso Estado quanto no mercado nacional, contudo, com o avanço da vacinação e a eficácia das medidas de proteção adotadas pela população, o mercado vem se aquecendo cada vez mais.",
+                            "tituloImg": "",
+                            "legendaImg": ""
+                        },
+                        {
+                            "tipo": "txt",
+                            "url": "",
+                            "conteudo": "Além do setor econômico, quem também sofreu bastante foi o setor cultural; setores como artes cênicas e feiras culturais chegaram a perder 100% de suas receitas. A falta de acesso à informação correta e a baixa propaganda afetam esse setor diretamente, já que é muitas vezes difícil transmitir a essência histórica de algo sem aquilo ser mostrado fisicamente.",
+                            "tituloImg": "",
+                            "legendaImg": ""
+                        },
+                        {
+                            "tipo": "txt",
+                            "url": "",
+                            "conteudo": "Ademais, a pandemia também nos tornou mais conectados virtualmente, 81% da população com mais de 10 anos já usa a <i>Internet</i> diariamente no Brasil. Com isso, novos meios de divulgação surgiram, e o contato entre prestador de serviços e consumidor passou a ser bem mais virtual.",
+                            "tituloImg": "",
+                            "legendaImg": ""
+                        },
+                        {
+                            "tipo": "txt",
+                            "url": "",
+                            "conteudo": "O nosso site busca solucionar, principalmente, a falta de acesso à informação, montando textos explicativos e divulgando não só a beleza dos lugares, mas também seu contexto histórico e relevância para a cidade de João Pessoa e toda a Paraíba.",
+                            "tituloImg": "",
+                            "legendaImg": ""
+                        }
+                    ],
+                    "path": "motivacao-e-deficinao-do-problema",
+                    "temFilhos": false,
+                    "filhos": [],
+                    "ante": { "path": "abstract", "nome": "Abstract" },
+                    "prox": {
+                        "path": "descricao-tecnica",
+                        "nome": "Descrição Técnica"
+                    }
+                },
+                {
+                    "subtitulo": "1.2 Descrição técnica",
+                    "tipo": "",
+                    "conteudo": [
+                        {
+                            "tipo": "txt",
+                            "url": "",
+                            "conteudo": "Este projeto teve como principal objetivo a criação de uma interface limpa e minimalista, de fácil compreensão para o usuário, e que proporcione uma boa usabilidade do site OtoLugar. No site, o usuário pode visualizar pontos turísticos de João Pessoa e seu entorno, ver sua localização exata, criar um usuário com login e senha e publicar seus próprios pontos. A equipe deste projeto é composta pelos alunos Júlia Moraes da Silvae Kaio Lucas Silva Nunes, alunos do terceiro ano do curso de informática.",
+                            "tituloImg": "",
+                            "legendaImg": ""
+                        }
+                    ],
+                    "path": "descricao-tecnica",
+                    "temFilhos": false,
+                    "filhos": [],
+                    "ante": { "path": "abstract", "nome": "Abstract" },
+                    "prox": {
+                        "path": "descricao-tecnica",
+                        "nome": "Descrição Técnica"
+                    }
+                }
+            ],
+            "prox": "abstract",
+            "ante": null
+        },
+        {
+            "titulo": "",
+            "conteudo": "",
+            "path": "",
+            "filhos": [
+                {
+                    "subtitulo": "",
+                    "tipo": "",
+                    "conteudo": [
+                        {
+                            "tipo": "",
+                            "url": "",
+                            "conteudo": "",
+                            "tituloImg": "",
+                            "legendaImg": ""
+                        }
+                    ],
+                    "path": "",
+                    "filhos": [],
+                    "prox": "",
+                    "ante": ""
+                }
+            ]
+        }
+    ]
+}
